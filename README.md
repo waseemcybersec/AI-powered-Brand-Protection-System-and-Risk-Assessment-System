@@ -1,0 +1,2 @@
+# AI-powered-Brand-Protection-System-and-Risk-Assessment-System
+A comprehensive Brand Protection System designed to detect and mitigate brand impersonation, abuse, and threats across multiple attack vectors. This system integrates logo detection, visual mimic detection, threat intelligence aggregation, dark web monitoring, and social media impersonation detection into a unified, scalable platform.
