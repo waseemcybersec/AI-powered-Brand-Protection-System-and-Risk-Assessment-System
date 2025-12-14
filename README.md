@@ -46,4 +46,3 @@ The system follows a **modular microservices-inspired architecture**:
 
 ```bash
 git clone https://github.com/waseemcybersec/AI-powered-Brand-Protection-System-and-Risk-Assessment-System.git
-cd AI-powered-Brand-Protection-System-and-Risk-Assessment-System
