@@ -21,7 +21,7 @@ It is designed to handle large-scale monitoring while maintaining high accuracy 
 
 ## Technology Stack
 - **Backend:** Python 3.12, Flask, Flask-CORS  
-- **Computer Vision:** PyTorch, Hugging Face Transformers (DINOv2), OpenCV, Pillow, ImageHash  
+- **Computer Vision:** PyTorch, Hugging Face Transformers (DINOv2), OpenCV, CLIP, ImageHash  
 - **Web Automation:** Selenium with WebDriver Manager  
 - **Data Processing:** Pandas, NumPy  
 - **Networking & Domain Tools:** Requests, dnspython, python-whois, tldextract  
