@@ -38,7 +38,6 @@ The system follows a **modular microservices-inspired architecture**:
 4. **Dark Web Monitoring Module:** Monitors leaks, credentials, and phishing activity.  
 5. **Social Media Monitoring Module:** Detects impersonation and malicious content across platforms.  
 
-![System Architecture](docs/system-architecture.png)  <!-- Optional: Add your architecture diagram -->
 
 ---
 
