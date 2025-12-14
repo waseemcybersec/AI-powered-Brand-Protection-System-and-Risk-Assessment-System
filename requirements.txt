@@ -1,0 +1,41 @@
+# Brand Protection Project - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+requests>=2.32.0
+pandas>=2.0.0
+tldextract>=5.0.0
+numpy>=1.24.0
+
+# Selenium for web automation and screenshots
+selenium>=4.0.0
+webdriver-manager>=4.0.0  # Automatically manages ChromeDriver
+
+# DNS and network
+dnspython>=2.8.0
+
+# Image processing for mimic detection
+Pillow>=10.0.0
+imagehash>=4.3.1
+opencv-python>=4.8.0
+
+# YOLO for logo detection
+ultralytics>=8.0.0
+
+# CLIP for visual similarity (optional but recommended)
+torch>=2.0.0
+transformers>=4.30.0
+torchvision>=0.15.0
+
+# Optional but recommended
+urllib3>=2.0.0
+
+# Web application
+Flask>=3.0.0
+flask-cors>=4.0.0
+
+# Threat Intelligence
+python-dateutil>=2.9.0
+python-dotenv>=1.0.0
+python-whois>=0.8.0
+
